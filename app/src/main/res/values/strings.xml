@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CARLOAN</string>
+
+        <string name="carloan">Car Loan Calculator</string>
+        <string name="text1">Enter Car Price: RM </string>
+        <string name="editText" ></string>
+        <string name="txtOutput" ></string>
+        <string name="txtOuput2"></string>
+        <string name="txtOutput3"></string>
+        <string name="txtOuput4"></string>
+        <string name="text2">Enter down payment amount : RM </string>
+        <string name="text3">Enter loan period (years) : </string>
+        <string name="text4">Enter interest rate : </string>
+        <string name="btn1">Calculate</string>
+        <string name="text5">Result</string>
+        <string name="text6">Car Loan : RM </string>
+        <string name="text7">Interest : </string>
+        <string name="Text8">Monthly Payment : </string>
+    </resources>
